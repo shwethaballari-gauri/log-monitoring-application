@@ -1,8 +1,5 @@
 # log-monitoring-application
 
-
-# Job Log Tracker
-
 This app parses a CSV log of job executions, tracks durations, and logs warnings/errors based on thresholds.
 
 ## Features
