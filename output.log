@@ -1,0 +1,5 @@
+Job: backup-database, PID: 1234, Duration: 5.33 minutes
+WARNING: Job 'backup-database' (PID: 1234) took longer than 5 minutes.
+Job: generate-report, PID: 2234, Duration: 11.00 minutes
+ERROR: Job 'generate-report' (PID: 2234) exceeded 10 minutes.
+Job: send-emails, PID: 3234, Duration: 0.83 minutes
